@@ -15,8 +15,7 @@ ingredients:
 - 2 tsp salt
 - 1 cup water
 
-
-instructions:
+steps:
 - Add flour, salt, and fat to mixer. Stir it all up real good.
 - While the mixer is on, pour in water. Set mixer to 2 (or 3 if you're feeling spicy) and let it work the dough into a nice ball.
 - On a floured surface, break the dough into ~5cm balls. Squish them down a bit and let them rest for 15-45 minutes.
