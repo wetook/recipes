@@ -1,6 +1,4 @@
 ---
-layout: recipe
-
 image: https://i.imgur.com/jn66NkW.jpg
 title: Bacon Fat Tortillas
 source: https://www.mexicanplease.com/flour-tortillas-made-bacon-fat/

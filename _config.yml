@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
 title: Curated Recipes for a Discerning Postmodern Palate
+permalink: /:title
+
+defaults:
+  - scope:
+      path: recipes
+      type: pages
+    values:
+      layout: recipe
