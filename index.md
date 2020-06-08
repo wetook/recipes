@@ -7,7 +7,7 @@ title: Recipes organized in arbitrary categories
 - [Egg Pasta]()
 - [Bagels]()
 - [Biscuits]()
-- [Tortillas based on bacon fat](recipes/tortillas.md)
+- [Tortillas with bacon fat](_recipes/tortillas.md)
 
 ## Daily Dinners
 
@@ -16,7 +16,7 @@ title: Recipes organized in arbitrary categories
 ## Friedday
 
 - [Ryan's Fried Chicken]()
-- [Corn Fritters](recipes/corn_fritters.md)
+- [Corn Fritters](_recipes/corn_fritters.md)
 
 ## Desserts (there are two 'S'es because you always want more)
 
