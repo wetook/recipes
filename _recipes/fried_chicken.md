@@ -1,6 +1,9 @@
 ---
 title: Ryan's Fried Chicken
 image: https://i.imgur.com/z31BlaB.jpg
+tags:
+- fried
+- chicken
 
 tools:
 - candy/fry thermometer

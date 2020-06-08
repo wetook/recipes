@@ -2,6 +2,10 @@
 title: Corn Fritters
 source: https://www.allrecipes.com/recipe/18040/corn-fritters/
 image: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7137099.jpg
+tags:
+- fried
+- side
+- vegetarian
 
 ingredients:
 - 3 cups oil for frying

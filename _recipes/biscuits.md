@@ -3,6 +3,7 @@ title: Biscuits
 tags:
 - breakfast
 - flour
+- vegetarian
 
 ingredients:
 - 2 cups flour
