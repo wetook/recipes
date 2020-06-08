@@ -4,14 +4,14 @@ title: Recipes organized in arbitrary categories
 
 ## Flour-based staples
 
-- [Egg Pasta]()
-- [Bagels]()
-- [Biscuits]()
+- [Egg Pasta](_recipes/egg_pasta.md)
+- [Bagels](_recipes/bagels.md)
+- [Biscuits](_recipes/biscuits.md)
 - [Tortillas with bacon fat](_recipes/tortillas.md)
 
 ## Daily Dinners
 
-- [Cava bowls]()
+- [Cava bowls](_recipes/cava_bowls.md)
 
 ## Friedday
 
@@ -20,11 +20,11 @@ title: Recipes organized in arbitrary categories
 
 ## Desserts (there are two 'S'es because you always want more)
 
-- [Carrot cake]()
-- [Rosemary Honey Ice Cream]()
-- [SE Adapted Alchohol Vanilla Ice Cream 🍨]()
+- [Carrot cake](_recipes/carrot_cake.md)
+- [Rosemary Honey Ice Cream](_recipes/rosemary_honey_ice_cream.md)
+- [SE Adapted Alchohol Vanilla Ice Cream 🍨](_recipes/alchohol_ice_cream.md)
 
 ## Things that don't fit neatly into your worldview
 
-- [Lemon Ricotta Pancakes]()
-- [Potatoes au Gratin]()
+- [Lemon Ricotta Pancakes 🍋🥞](_recipes/lemon_ricotta_pancakes.md)
+- [Potatoes au Gratin](_recipes/potatoes_au_gratin.md)
