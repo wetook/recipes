@@ -20,7 +20,7 @@ title: Recipes organized in arbitrary categories
 
 ## Desserts (there are two 'S'es because you always want more)
 
-- [Carrot cake](_recipes/carrot_cake.md)
+- [Carrot cake 🥕](_recipes/carrot_cake.md)
 - [Rosemary Honey Ice Cream](_recipes/rosemary_honey_ice_cream.md)
 - [SE Adapted Alchohol Vanilla Ice Cream 🍨](_recipes/alchohol_ice_cream.md)
 
