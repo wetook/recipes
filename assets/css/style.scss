@@ -16,3 +16,41 @@
         padding: 1rem 0.5rem;
     }
 }
+
+.recipe-header {
+    display: block;
+    text-align: center;
+
+    padding-top: 1rem;
+
+    @include large {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
+    @include medium {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    @include small {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    img {
+        max-width: 100%;
+
+        @include large {
+            max-height: 32rem;
+        }
+
+        @include medium {
+            max-height: 28rem;
+        }
+
+        @include small {
+            max-height: 28rem;
+        }
+    }
+}

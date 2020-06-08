@@ -20,9 +20,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    {% if page.image %}
+    <header class="recipe-header" role="banner">
+      <img itemprop="image" src="{{ page.image }}" />
+    </header>
+    {% else %}
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     </header>
+    {% endif %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
