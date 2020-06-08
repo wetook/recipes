@@ -15,7 +15,7 @@ title: Recipes organized in arbitrary categories
 
 ## Friedday
 
-- [Ryan's Fried Chicken]()
+- [Ryan's Fried Chicken](_recipes/fried_chicken.md)
 - [Corn Fritters](_recipes/corn_fritters.md)
 
 ## Desserts (there are two 'S'es because you always want more)
