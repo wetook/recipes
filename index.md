@@ -1,4 +1,6 @@
-# Recipes organized by arbitrary categories
+---
+title: Recipes organized in arbitrary categories
+---
 
 ## Flour-based staples
 
