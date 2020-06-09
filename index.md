@@ -10,6 +10,7 @@ title: Recipes organized in arbitrary categories
 - [Tortillas with bacon fat](_recipes/tortillas.md)
 - [Pretzel Buns](_recipes/pretzel_bund.md)
 - [Seeded Rolls](_recipes/seeded_rolls.md)
+- [Crusty Dinner Rolls](_recipes/crusty_rolls.md)
 
 ## Daily Dinners
 
