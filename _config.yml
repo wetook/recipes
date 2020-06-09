@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Curated Recipes for a Discerning Postmodern Palate
 google_analytics: UA-37388221-4
+baseurl: /recipes
 
 relative_links:
   enabled: true
