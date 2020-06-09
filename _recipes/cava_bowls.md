@@ -1,5 +1,10 @@
 ---
 title: Cava Bowls
+tags:
+- chicken
+- dinner
+- sous_vide
+
 ingredients:
 - boneless chicken thighs
 - rice
@@ -13,7 +18,6 @@ ingredients:
 - olive oil
 - salt
 - pepper
-
 
 tools:
 - Sous-vide maker

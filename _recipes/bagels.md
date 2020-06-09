@@ -11,13 +11,17 @@ tools:
 - KitchenAid stand mixer
 
 ingredients:
-- 19.25 ounces bread flour (3 1/2 cups) [530g]
-- 1/4 ounce instant dry yeast (2 1/2 teaspoons; or 1 envelope active dry) [7g]
-- 2 tablespoons sugar
-- 1 tablespoon salt
-- 12 ounces hot water (1 1/2 cups, 120°–130°F) [340g]
-- 1 tbsp molasses (for the boiling water; alternatively, you can use 1 tbsp sugar)
-- 1 egg beaten with 1 teaspoon water (for toppings)
+  Dough:
+  - 19.25 ounces bread flour (3 1/2 cups) [530g]
+  - 1/4 ounce instant dry yeast (2 1/2 teaspoons; or 1 envelope active dry) [7g]
+  - 2 tablespoons sugar
+  - 1 tablespoon salt
+  - 12 ounces hot water (1 1/2 cups, 120°–130°F) [340g]
+  Boil:
+  - 1 tbsp molasses (alternatively, you can use 1 tbsp sugar)
+  Toppings:
+  - 1 egg beaten with 1 teaspoon water (for toppings)
+  - Seedy seasoning mix
 
 steps:
 - Add all the dry ingredients to the bowl of a stand mixer and stir together. With the mixer running, slowly add the water; knead with the dough hook on speed 2 until dough comes together into a satiny ball.

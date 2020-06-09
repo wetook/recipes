@@ -11,15 +11,16 @@ tools:
 - KitchenAid stand mixer
 
 ingredients:
-- 1 cup hot water
-- 1 tablespoon olive oil
-- 1.5 teaspoon salt
-- 1.5 teaspoon sugar
-- 1.5 cup all-purpose unbleached flour
-- 1.5 cup bread flour
-- 1 teaspoon bread machine or instant yeast
--
-- "For glaze: 1/4 cup water + 1/2 teaspoon cornstarch mixed in 2 cup pyrex container and heated in a microwave for 20 seconds on HIGH or until thick."
+  Dough:
+  - 1 cup hot water
+  - 1 tablespoon olive oil
+  - 1.5 teaspoon salt
+  - 1.5 teaspoon sugar
+  - 1.5 cup all-purpose unbleached flour
+  - 1.5 cup bread flour
+  - 1 teaspoon bread machine or instant yeast
+  Glaze:
+  - 1/4 cup water + 1/2 teaspoon cornstarch mixed in 2 cup pyrex container and heated in a microwave for 20 seconds on HIGH or until thick.
 steps:
 - Add water, olive oil, salt, sugar, flour, and yeast to the mixer. Stir it all up real good.
 - Set mixer to speed 2 with the dough hook and kneed for 2-3 minutes. At this point the dough should be sticking to the side and pulling away fairly cleanly. Add flour, 1 tablespoon at a time, if the dough is too sticky, or add water 1 tablespoon at a time if dough is too dry (dough slaps against the side).

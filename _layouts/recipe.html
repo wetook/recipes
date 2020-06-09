@@ -24,11 +24,23 @@ layout: default
 {% endif %}
 
 <h3>Ingredients</h3>
+{% if page.ingredients.first.first %}
+<!-- Ingredients are organized by subsection -->
+{% for section in page.ingredients %}
+<h4>{{ section.first }}</h4>
+<ul>
+  {% for item in section.last %}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
+{% else %}
 <ul>
   {% for item in page.ingredients %}
   <li>{{ item }}</li>
   {% endfor %}
 </ul>
+{% endif %}
 
 <h2>Instructions</h2>
 <ol>

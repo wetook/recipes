@@ -10,16 +10,18 @@ tools:
 - KitchenAid stand mixer
 
 ingredients:
-- 12 ounces warm water
-- 1 tablespoon unsalted butter, cut into small pieces
-- 1/2 teaspoon salt
-- 3 cups unbleached all-purpose flour
-- 3 tablespoons nonfat dry milk
-- 1.25 teaspoon instant or bread machine yeast
--
-- 1/4 cup baking soda
-- 1 tablespoon salt
-- Maldon Sea Salt
+  Dough:
+  - 12 ounces warm water
+  - 1 tablespoon unsalted butter, cut into small pieces
+  - 1/2 teaspoon salt
+  - 3 cups unbleached all-purpose flour
+  - 3 tablespoons nonfat dry milk
+  - 1.25 teaspoon instant or bread machine yeast
+  Boil:
+  - 1/4 cup baking soda
+  - 1 tablespoon salt
+  Toppings:
+  - Maldon Sea Salt
 
 steps:
 - Add all ingredients up to yeast to mixer in order given. Stir until doughy. Swap the stir thing for the dough hook and knead on speed 2. Slowly add more water or flour if the consistency is no good - it should be a slightly sticky ball.

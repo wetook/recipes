@@ -8,7 +8,7 @@ title: Recipes organized in arbitrary categories
 - [Bagels](_recipes/bagels.md)
 - [Biscuits](_recipes/biscuits.md)
 - [Tortillas with bacon fat](_recipes/tortillas.md)
-- [Pretzel Buns](_recipes/pretzel_bund.md)
+- [Pretzel Buns](_recipes/pretzel_buns.md)
 - [Seeded Rolls](_recipes/seeded_rolls.md)
 - [Crusty Dinner Rolls](_recipes/crusty_rolls.md)
 

@@ -11,18 +11,19 @@ tools:
 - KitchenAid stand mixer
 
 ingredients:
-- 3/4 cup warm milk
-- 1/4 cup water
-- 1 egg
-- 2 tablespoons butter
-- 3 tablespoons sugar
-- 1 1/2 teaspoon salt
-- 3 1/4 cups bread flour (if you must substitute all-purpose flour, you will need a little more)
-- 3 teaspoons instant or bread machine yeast
--
-- 1 egg + 1 teaspoon water for glaze
-- sesame seeds or poppy seeds
-- dried garlic and onion
+  Dough:
+  - 3/4 cup warm milk
+  - 1/4 cup water
+  - 1 egg
+  - 2 tablespoons butter
+  - 3 tablespoons sugar
+  - 1 1/2 teaspoon salt
+  - 3 1/4 cups bread flour (if you must substitute all-purpose flour, you will need a little more)
+  - 3 teaspoons instant or bread machine yeast
+  Toppings:
+  - 1 egg + 1 teaspoon water
+  - sesame seeds or poppy seeds
+  - dried garlic and onion
 
 steps:
 - Place ingredients in order listed into your mixer (milk to yeast). Stir until doughy. Swap the stir thing for the dough hook and knead on speed 2. Slowly add more water or flour if the consistency is no good.
