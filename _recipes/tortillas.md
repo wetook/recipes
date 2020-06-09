@@ -5,6 +5,7 @@ source: https://www.mexicanplease.com/flour-tortillas-made-bacon-fat/
 tags:
 - staple
 - bacon
+- flour
 
 tools:
 - KitchenAid stand mixer

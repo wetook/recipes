@@ -1,5 +1,5 @@
 ---
-title: Alcohol Vanilla Ice Cream
+title: SE Adapted Alchohol Vanilla Ice Cream 🍨
 tags:
 - dessert
 - vegetarian

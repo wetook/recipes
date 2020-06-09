@@ -4,6 +4,7 @@ tags:
 - side
 - vegetarian
 - cheesy
+- misc
 
 ingredients:
 - Gruyere

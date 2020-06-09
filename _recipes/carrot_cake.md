@@ -1,5 +1,5 @@
 ---
-title: Carrot Cake with Cream Cheese Frosting
+title: Carrot Cake 🥕 with Cream Cheese Frosting
 tags:
 - dessert
 - vegetarian

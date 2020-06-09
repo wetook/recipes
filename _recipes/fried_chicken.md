@@ -1,5 +1,5 @@
 ---
-title: Ryan's Fried Chicken
+title: Ryan's Fried Chicken 🍗
 image: https://i.imgur.com/z31BlaB.jpg
 tags:
 - fried

@@ -1,5 +1,5 @@
 ---
-title: Proper NYC style bagels
+title: Proper NYC style bagels 🥯
 source: https://www.seriouseats.com/recipes/2011/03/how-to-make-homemade-bagels-a-la-jo-goldenberg-recipe.html
 image: https://i.imgur.com/VC77i4k.jpg
 tags:
