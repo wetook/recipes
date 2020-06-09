@@ -5,7 +5,7 @@ title: Recipes organized in arbitrary categories
 ## Flour-based staples
 
 - [Egg Pasta](_recipes/egg_pasta.md)
-- [Bagels](_recipes/bagels.md)
+- [Bagels 🥯](_recipes/bagels.md)
 - [Biscuits](_recipes/biscuits.md)
 - [Tortillas with bacon fat](_recipes/tortillas.md)
 - [Pretzel Buns](_recipes/pretzel_buns.md)
@@ -18,7 +18,7 @@ title: Recipes organized in arbitrary categories
 
 ## Friedday
 
-- [Ryan's Fried Chicken](_recipes/fried_chicken.md)
+- [Ryan's Fried Chicken 🍗](_recipes/fried_chicken.md)
 - [Corn Fritters](_recipes/corn_fritters.md)
 
 ## Desserts (there are two 'S'es because you always want more)

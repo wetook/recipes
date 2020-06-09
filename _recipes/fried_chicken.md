@@ -17,6 +17,7 @@ ingredients:
 - Flour
 - Egg
 - Canola or peanut oil
+- Defcon 1 Extreme Heat Sauce
 
 steps:
 - Heat oil to 350 degrees
@@ -24,5 +25,6 @@ steps:
 - Crush saltines finely with a rolling pin
 - Mix enough pepper and cayenne with the saltines so that black and red grains are visible but not overwhelming. Add chopped parsley.
 - Coat chicken in flour, drench in egg, then cover with saltine crumb mixture
-- Fry for 2-2:30 minutes until outside is turning brown. Internal temp should be 160
+- Fry for 2-2:30 minutes until outside is turning brown. Internal temp should be 160.
+- Smother with Defcon or some other inferior Buffalo sauce.
 ---
