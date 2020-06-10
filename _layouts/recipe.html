@@ -45,6 +45,6 @@ layout: default
 <h2>Instructions</h2>
 <ol>
   {% for step in page.steps %}
-  <li>{{ step }}</li>
+  <li>{{ step | markdownify }}</li>
   {% endfor %}
 </ol>
