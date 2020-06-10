@@ -3,7 +3,6 @@ title: Lemon Ricotta Pancakes 🍋🥞
 tags:
 - breakfast
 - vegetarian
-- misc
 
 ingredients:
 - 1 1/2 cups (214g) all-purpose flour (scoop and level to measure)

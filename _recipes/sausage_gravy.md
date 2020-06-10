@@ -3,7 +3,6 @@ title: Sausage Gravy
 tags:
 - sausage
 - breakfast
-- misc
 
 ingredients:
 - 1 tube of Jimmy Dean sausage
