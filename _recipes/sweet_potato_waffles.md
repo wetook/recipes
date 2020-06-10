@@ -24,4 +24,4 @@ steps:
 - To cook 
 ---
 
-Use it with the fried chicken for Chicken and waffles!
+Use it with the [Fried Chicken](fried-chicken) for Chicken and waffles!
