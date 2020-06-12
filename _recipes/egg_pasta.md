@@ -10,7 +10,7 @@ ingredients:
 - 2 whole large eggs (110g; about 4 ounces)
 - 4 yolks from 4 large eggs (70g; about 2.5 ounces)
 - 1 teaspoon kosher salt, plus more for salting water
-- Note: You can add black pepper or other dry seasonings
+- "Note: You can add black pepper or other dry seasonings"
 
 tools:
 - KitchenAid stand mixer
