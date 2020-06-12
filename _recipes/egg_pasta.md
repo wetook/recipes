@@ -1,5 +1,5 @@
 ---
-title: Egg Pasta
+title: Fresh Egg Pasta
 tags:
 - staple
 - flour
