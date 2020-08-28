@@ -35,6 +35,6 @@ steps:
 - Remove bagels from water with skimmer or slotted spoon to a drying rack.
 - "<p>For eating in the next 0-3 days: put in tupperware or plastic wrap in fridge. When ready to consume, follow directions like normal. Make sure to allow the bagels to warm up a bit.</p><p>After 4-5 days the they collapse a bit and the appearance goes to the pooper but they're still good, and with more than 5 days they're no better than a blueberry-oat day-old bread-sliced monstrosity from Panera.</p>"
 - "For bagel toppings: Brush bagel with egg-water mixture. Place bagels on wire cooling rack set over a rimmed baking sheet. Shake on desired toppings. Sesame seed, poppy seed, kosher salt, minced onion, minced garlic, and caraway seeds are correct. The baking sheet will collect excess dry toppings (such as sesame or poppy seeds). Simply pour them back into their containers for reuse."
-- Place bagels on baking sheet covered with parchment paper. Bake for 15 minutes and flip the bagels. The top should still be fairly pale and the bottoms starting to brown. Bake another 10 minutes, flip again, and bake a final 5 minutes.
+- Place bagels on baking sheet covered with parchment paper. Bake for 10 minutes and flip the bagels. The top should still be fairly pale and the bottoms starting to brown. Bake another 10 minutes, flip again, and bake a final 5 minutes.
 - Allow to cool before cutting. Immediately slicing open can sometimes leave the inside too doughy and it's also hot af.
 ---
